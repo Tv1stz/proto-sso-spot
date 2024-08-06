@@ -1,4 +1,4 @@
-module proto-spot
+module github.com/Tv1stz/proto-sso-spot
 
 go 1.22
 
